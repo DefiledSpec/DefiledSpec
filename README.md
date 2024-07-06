@@ -9,8 +9,8 @@
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
 - ❤️ Love to learn new stuff
 - 📫 How to reach me: 
-	- Discord: [@tuncion](https://discord.gg/pH48RuF6v3)
-	- E-Mail: <a href="mailto:business@tuncion.de">business@tuncion.de</a>
+	- Discord: [@defilediron](https://discord.gg/pH48RuF6v3)
+	- E-Mail: <a href="mailto:defiledspec@gmail.com">defiledspec@gmail.com</a>
 
 ### Working with
 
